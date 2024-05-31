@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/igorleonel/igorleonel/blob/main/musgo.jpg" height=300 width=900>
+<img src="https://github.com/igorleonel/igorleonel/blob/main/Frame%207.svg">
 </p>
 
 <h1 align="center">Prazer, eu sou Igor Leonel!</h2>
