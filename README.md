@@ -50,3 +50,14 @@
  - [Medium](https://medium.com/@igor__leonel): acesse meus artigos no Medium, onde faço publicações com intuito educativo
  - [Linkedin](https://www.linkedin.com/in/igorleonel/): meu linkedin com todos os cursos que já fiz e as formações
  - [Contato](igorleonelborba@hotmail.com): entre em contato pelo o meu email
+   
+<br/>
+<br/>
+<br/>
+
+<div>
+  <a href="https://www.linkedin.com/in/igorleonel/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>   
+  <a href="https://github.com/igorleonel" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>   
+  <a href="https://medium.com/@igor__leonel" target="_blank"> <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"</a>   
+  <a href="mailto:igorleonelborba@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"</a>   
+</div>
