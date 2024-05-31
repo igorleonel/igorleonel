@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/igorleonel/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=igorleonel&custom_title=Estatística:&show_icons=true&card_width=400" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=igorleonel&custom_title=Estatística:&show_icons=true&card_width=450" />
 </a>
 <a href="https://github.com/igorleonel/portfolio">
   <img height=132 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorleonel&repo=portfolio&theme=transparent&langs_count=8&card_width=50" />
