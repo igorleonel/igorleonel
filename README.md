@@ -1,8 +1,6 @@
 <p align="center">
 <img src="https://github.com/igorleonel/igorleonel/blob/main/Frame%207.svg">
 </p>
-
-<h1 align="center">Prazer, eu sou Igor Leonel!</h2>
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <br/>
@@ -13,7 +11,7 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=igorleonel&custom_title=Estatística:&show_icons=true&card_width=450" />
 </a>
 <a href="https://github.com/igorleonel/portfolio">
-  <img height=128 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorleonel&repo=portfolio&theme=transparent&langs_count=8&card_width=40" />
+  <img height=128 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorleonel&repo=portfolio&langs_count=8&card_width=40" />
 </a>
 
 <br/>
