@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/igorleonel/igorleonel/blob/main/transferir%20(7).jpg" height=200 width=500>
+<img src="https://github.com/igorleonel/igorleonel/blob/main/transferir%20(7).jpg" height=200 width=800>
 </p>
 
 <h1 align="center">Prazer, eu sou Igor Leonel!</h2>
