@@ -18,11 +18,11 @@
 
 <h2 align="left">Sobre mim:</h2>
 
- - Estou cursando Ciência de Dados;
- - Criei uma startup na área de educação avançando em programas de aceleração;
- - Analista de Dados na OI SA, colaborando com insights para o time de Sistemas Operacionais, Storage e Mainframe; 
- - Contribui significamente para estudos científicos através dos dados na SporeData; e
- - Implementei sistema de ETL no maior São João para analisar incidentes em tempo real.
+ - Estou cursando Ciência de Dados.
+ - Criei uma startup na área de educação, avançando em programas de aceleração.
+ - Sou Analista de Dados na Oi S.A., onde colaboro com insights para o time de Sistemas Operacionais, Storage e Mainframe.
+ - Contribuí significativamente para estudos científicos através dos dados na SporeData.
+ - Também implementei um sistema de ETL no maior São João, analisando incidentes em tempo real.
 
 <br/>
 <br/>
