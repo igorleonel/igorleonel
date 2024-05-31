@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/igorleonel/igorleonel/blob/main/transferir%20(7).jpg" height=200 width=500>
+</p>
+
 <h1 align="center">Prazer, eu sou Igor Leonel!</h2>
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
