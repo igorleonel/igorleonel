@@ -37,13 +37,15 @@ Boa parte do meu trabalho é com **dados públicos de educação** (IDEB, SAEB, 
 
 ## Trajetória
 
-| Período | Onde | O que fiz |
-|---|---|---|
-| 2024 – hoje | **Data Analyst · Mind Lab** | Pipelines, datalake e dashboards com dados educacionais |
-| 2022 – 2024 | **Analista de Dados · Oi** | KPIs para reduzir o SLA de chamados, pipeline de monitoramento de incidentes, Power BI e SQL Server |
-| 2022 | **Prefeitura de Caruaru** | Monitoramento em tempo real de incidentes no São João, com público de mais de 120 mil pessoas |
-| 2022 | **SporeData** | Análise em R de pacientes com Covid-19 tratados com ECMO, para um artigo da West Virginia University |
-| 2021 – 2022 | **Cofundador · D.grau** | Startup de educação, pré-acelerada pelo NINNA Hub e aceita no programa Centelha |
+<code>2024 – hoje</code>&nbsp;&nbsp;**Data Analyst · Mind Lab**: pipelines, datalake e dashboards com dados educacionais
+
+<code>2022 – 2024</code>&nbsp;&nbsp;**Analista de Dados · Oi**: KPIs para reduzir o SLA de chamados, pipeline de monitoramento de incidentes, Power BI e SQL Server
+
+<code>2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;**Prefeitura de Caruaru**: monitoramento em tempo real de incidentes no São João (mais de 120 mil pessoas)
+
+<code>2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp;&nbsp;**SporeData**: análise em R de pacientes com Covid-19 em ECMO, para um artigo da West Virginia University
+
+<code>2021 – 2022</code>&nbsp;&nbsp;**Cofundador · D.grau**: startup de educação, pré-acelerada pelo NINNA Hub e aceita no programa Centelha
 
 ## Projetos em destaque
 
