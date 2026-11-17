@@ -11,12 +11,15 @@
 
 ## Sobre mim
 
-Sou Data Analyst na **Mind Lab**. Trabalho de ponta a ponta: extraio dados de APIs e da web, carrego no datalake do BigQuery, orquestro tudo no Airflow e entrego dashboards e planilhas automatizadas que os times de produto, operações e comercial usam no dia a dia.
+Sou Data Analyst na **Mind Lab**. Trabalho de ponta a ponta: extraio dados de APIs e da web, carrego no datalake do BigQuery, orquestro tudo no Airflow e entrego análises, dashboards e planilhas automatizadas.
 
-Boa parte do meu trabalho é com **dados públicos de educação** (IDEB, SAEB, PNCP, SIOPE): transformo essas bases em métricas de evolução da educação municipal e em análises de gastos públicos.
+No dia a dia, atendo as demandas dos times **comercial, operações, marketing e B2C**, municiando cada um com as informações de que precisa para decidir. Também analiso os **dados internos da plataforma** para entender o uso e o comportamento dos usuários.
+
+Outra frente do meu trabalho são os **dados públicos de educação** (IDEB, SAEB, PNCP, SIOPE): transformo essas bases em métricas de evolução da educação municipal e em análises de gastos públicos.
 
 ## O que eu faço
 
+- **Análises para o negócio:** demandas dos times comercial, operações, marketing e B2C, e análises dos dados internos da plataforma.
 - **Engenharia de dados:** pipelines com web scraping e APIs (Requests, BeautifulSoup, Selenium) e DAGs no Airflow com alertas de falha.
 - **Analytics:** SQL avançado no BigQuery para consolidar e transformar dados.
 - **BI:** dashboards em Metabase, Looker Studio e Power BI.
@@ -37,7 +40,7 @@ Boa parte do meu trabalho é com **dados públicos de educação** (IDEB, SAEB, 
 
 ## Trajetória
 
-<code>2024 – hoje</code>&nbsp;&nbsp;**Data Analyst · Mind Lab**: pipelines, datalake e dashboards com dados educacionais
+<code>2024 – hoje</code>&nbsp;&nbsp;**Data Analyst · Mind Lab**: análises para os times internos, dados da plataforma, pipelines, datalake e dashboards
 
 <code>2022 – 2024</code>&nbsp;&nbsp;**Analista de Dados · Oi**: KPIs para reduzir o SLA de chamados, pipeline de monitoramento de incidentes, Power BI e SQL Server
 
